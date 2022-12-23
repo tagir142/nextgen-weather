@@ -1,0 +1,13 @@
+# Ignore artifacts:
+build
+coverage
+node_modules
+.eslintignore
+.gitignore
+.prettierrc.json
+*.css
+
+yarn.lock
+*.html
+*.json
+*.md
